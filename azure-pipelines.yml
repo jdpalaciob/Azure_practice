@@ -11,7 +11,7 @@ variables:
   azureSubscription: 'ff2c0ac2-b462-4598-8cbf-b907112bce61'
 
   # Function app name
-  functionAppName: 'JoseGrayImage'
+  functionAppName: 'JoseFunctionPython1'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
