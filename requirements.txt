@@ -1,4 +1,4 @@
-install upgrade pip
+install --upgrade pip
 
 azure-functions
 
